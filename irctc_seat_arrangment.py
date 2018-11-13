@@ -1,3 +1,8 @@
+"""
+Says the seat number just opposite to the given seat number, 
+Tested again 2S(Second Sitting) Coach
+"""
+
 from sys import stdin
 
 for eachcase in range(test_cases):
